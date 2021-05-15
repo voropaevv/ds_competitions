@@ -1,4 +1,6 @@
 # Предсказание победителя Dota 2 по первым 5 минутам игры
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/ds_competitions/blob/master/dota_analysis/dota_analysis.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Подготовка и анализ данных для построения модели, предсказывающей победителя матча Dota 2.
 ## Описание

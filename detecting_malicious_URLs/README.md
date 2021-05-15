@@ -1,4 +1,6 @@
 # Детектирование вредоносных URL адресов
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/ds_competitions/blob/master/detecting_malicious_URLs/detecting_malicious_URLs.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Подготовка модели машинного обучения и оценка метрики ее качества (ROC-AUC).
 ## Описание
