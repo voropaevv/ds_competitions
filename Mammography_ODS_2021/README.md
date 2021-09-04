@@ -2,7 +2,7 @@
 
 ## Ссылка
 
-[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/ds_competitions/blob/master/mammography_ODS_2021/Mammography_ODS_2021.ipynb) на nbviewer для просмотра ноутбука.
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/ds_competitions/blob/master/Mammography_ODS_2021/Mammography_ODS_2021.ipynb) на nbviewer для просмотра ноутбука.
 
 ## Цель
 
